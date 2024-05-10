@@ -4,6 +4,6 @@ This directory contains reports on blue team exercises conducted within the Hack
 
 ## Contents
 
-- [Brutus.pdf](/Brutus.pdf)
+- [Brutus.pdf](/HackTheBox/Brutus.pdf)
 
 Each report provides insights into blue team exercises conducted on the HackTheBox platform, including analysis, observations, and recommended actions.
