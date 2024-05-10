@@ -4,7 +4,7 @@ This repository contains Blueteam exercises and analysis reports. It only hosts 
 
 ## Reports
 
-- [Brutus.pdf](BlueTeamReports/Brutus.pdf)
+- [Brutus.pdf](BlueTeamReports/HackTheBox/Brutus.pdf)
 
 
 Each report provides a detailed analysis of the event, covering detection, analysis, impacts, and recommended measures.
